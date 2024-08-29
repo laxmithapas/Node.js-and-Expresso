@@ -43,7 +43,7 @@ PUT /api/items/
 DELETE /api/items/
 : Delete an item by ID.
 
-####### Folder Structure
+###### Folder Structure
 your-backend-project/
 │
 ├── src/
@@ -58,9 +58,9 @@ your-backend-project/
 ├── package.json       # Project dependencies and scripts
 └── README.md          # Project documentation
 
-######## Contributing
+###### Contributing
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository, make your changes, and submit a pull request.
 
-######### Contact
+###### Contact
 For any questions or suggestions, please contact me at laxmithapa.adtu@gmail.com
 
