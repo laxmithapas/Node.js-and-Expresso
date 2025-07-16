@@ -31,33 +31,6 @@ npm start
 
 The server will be running on http://localhost:3000.
 
-###### API Endpoints
-Here’s a list of the API endpoints you can interact with:
-
-GET /api/items: Retrieve all items.
-GET /api/items/
-: Retrieve a specific item by ID.
-POST /api/items: Create a new item.
-PUT /api/items/
-: Update an existing item by ID.
-DELETE /api/items/
-: Delete an item by ID.
-
-###### Folder Structure
-your-backend-project/
-│
-├── src/
-│   ├── controllers/   # Logic for handling requests
-│   ├── models/        # Database schemas/models
-│   ├── routes/        # API route definitions
-│   ├── middlewares/   # Custom middleware functions
-│   └── app.js         # Main application file
-│
-├── .env               # Environment variables
-├── .gitignore         # Ignored files/folders by Git
-├── package.json       # Project dependencies and scripts
-└── README.md          # Project documentation
-
 ###### Contributing
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository, make your changes, and submit a pull request.
 
