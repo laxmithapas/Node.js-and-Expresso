@@ -34,6 +34,6 @@ The server will be running on http://localhost:3000.
 #### Contributing
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository, make your changes, and submit a pull request.
 
-###### Contact
+#### Contact
 For any questions or suggestions, please contact me at laxmithapa.adtu@gmail.com
 
